@@ -28,5 +28,11 @@
         "category": "Suspense",
         "quantity": 10,
         "unitPrice": 5
+    },
+    {
+        "bookname": "Ladys",
+        "category": "Terror",
+        "quantity": 15,
+        "unitPrice": 5
     }
 ]
