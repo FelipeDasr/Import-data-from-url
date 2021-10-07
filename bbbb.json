@@ -1,0 +1,39 @@
+[
+    {
+        "bookname": "Me Before You / After You / Still Me",
+        "category": "Romance",
+        "quantity": 10,
+        "unitPrice": 10
+    },
+    {
+        "bookname": "Harry Potter",
+        "category": "Fantasia",
+        "quantity": 10,
+        "unitPrice": 5
+    },
+    {
+        "bookname": "Drácula",
+        "category": "Fantasia",
+        "quantity": 15,
+        "unitPrice": 5
+    },
+    {
+        "bookname": "Mais Esperto Que o Diabo",
+        "category": "Autoajuda",
+        "quantity": 10,
+        "unitPrice": 8
+    },
+    {
+        "bookname": "O homem de giz",
+        "category": "Suspense",
+        "quantity": 10,
+        "unitPrice": 5,
+        "cu": 12234
+    },
+    {
+        "bookname": "Ladys",
+        "category": "Terror",
+        "quantity": 15,
+        "unitPrice": 5
+    }
+]
